@@ -1,0 +1,16 @@
+{
+  "name": "Rubik's Cube Solver",
+  "short_name": "CubeSolver",
+  "description": "3D Rubik's cube solver with step-by-step visualization",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f23",
+  "theme_color": "#e94560",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
